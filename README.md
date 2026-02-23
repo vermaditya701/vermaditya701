@@ -45,11 +45,9 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaVerma701&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaVerma701&theme=aura&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVerma701&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaVerma701&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaVerma701&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVerma701&layout=compact&theme=radical" />
 
 
 ## 🏆 GitHub Trophies
